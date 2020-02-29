@@ -1,0 +1,4 @@
+var url = "http://localhost:1337";
+
+export { url as u };
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiVVJMLmE2YTFjNWI4LmpzIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvc3RyYXBpL1VSTC5qcyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCBcImh0dHA6Ly9sb2NhbGhvc3Q6MTMzN1wiO1xuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLFVBQWUsdUJBQXVCOzs7OyJ9
