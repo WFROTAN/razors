@@ -2,13 +2,9 @@
   import cart from "../../stores/cart.js";
   console.log($cart);
 
-  /*
   $: total = $cart.reduce((acc, curr) => {
     return (acc += curr.amount);
   }, 0);
-*/
-
-  let total = 8;
 
   //let total = 0;
 </script>

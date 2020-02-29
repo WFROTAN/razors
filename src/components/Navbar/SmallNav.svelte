@@ -45,8 +45,9 @@
     </button>
 
     <div class="logo">Logo</div>
-  </div>
-  <div class="cart-link">
-    <CartButton />
+
+    <div class="cart-link">
+      <CartButton />
+    </div>
   </div>
 </nav>
